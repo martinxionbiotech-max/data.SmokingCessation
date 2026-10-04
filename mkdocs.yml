@@ -60,3 +60,6 @@ nav:
       - Overview: controversies/index.md
   - References:
       - Overview: references/index.md
+  - Community Data:
+      - Overview: community-data/index.md
+      - Live Statistics: community-data/statistics.md
