@@ -1,0 +1,62 @@
+site_name: Quit Smoking Hub — Data Center
+site_description: >-
+  Structured research database and reference center for smoking cessation:
+  nicotine, withdrawal, medications, behavior change, relapse and health effects.
+site_url: https://data.quitsmokinghub.com
+repo_name: SmokingCessation
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+plugins: []
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - Research:
+      - Overview: research/index.md
+  - Guidelines:
+      - Overview: guidelines/index.md
+  - Nicotine:
+      - Overview: nicotine/index.md
+  - Withdrawal:
+      - Overview: withdrawal/index.md
+  - Medications:
+      - Overview: medications/index.md
+  - Behavior Change:
+      - Overview: behavior-change/index.md
+  - Health Effects:
+      - Overview: health-effects/index.md
+  - Relapse:
+      - Overview: relapse/index.md
+  - Cessation Methods:
+      - Overview: cessation-methods/index.md
+  - Definitions:
+      - Overview: definitions/index.md
+  - Controversies:
+      - Overview: controversies/index.md
+  - References:
+      - Overview: references/index.md
