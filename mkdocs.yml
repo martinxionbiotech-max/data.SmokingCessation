@@ -1,63 +1,89 @@
-site_name: Quit Smoking Hub — Data Center
+site_name: Quit Smoking Hub Data Center
 site_description: >-
-  Structured research database and reference center for smoking cessation:
-  nicotine, withdrawal, medications, behavior change, relapse and health effects.
+  The evidence and knowledge infrastructure behind Quit Smoking Hub:
+  structured research records, guideline comparisons, medication and
+  withdrawal science, definitions, controversies and community data
+  documentation.
 site_url: https://data-smokingcessation.pages.dev
-repo_name: SmokingCessation
 theme:
   name: material
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: orange
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: orange
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: default
+    primary: teal
+    accent: deep orange
   features:
-    - navigation.instant
     - navigation.sections
-    - navigation.top
-    - toc.follow
+    - navigation.expand
 plugins: []
 markdown_extensions:
-  - admonition
   - tables
-  - toc:
-      permalink: true
-extra_css:
-  - stylesheets/extra.css
+  - admonition
 nav:
   - Home: index.md
   - Research:
       - Overview: research/index.md
+      - Records:
+          - R-001 NRT (Cochrane 2012): research/records/r-001.md
+          - R-002 Partial agonists (Cochrane): research/records/r-002.md
+          - R-003 Antidepressants (Cochrane): research/records/r-003.md
+          - R-004 Reduction vs abrupt: research/records/r-004.md
+          - R-005 E-cigarettes vs NRT (NEJM): research/records/r-005.md
+          - R-006 21st-century hazards (NEJM): research/records/r-006.md
+          - R-007 Withdrawal time course: research/records/r-007.md
+          - R-008 Network meta-analysis: research/records/r-008.md
+          - R-009 E-cigarettes (Cochrane 2021): research/records/r-009.md
+          - R-010 Surgeon General 2020: research/records/r-010.md
+          - R-011 WHO fact sheet 2023: research/records/r-011.md
+          - R-012 NICE NG209: research/records/r-012.md
+          - R-013 E-cigarettes (Cochrane 2024): research/records/r-013.md
+          - R-014 WHO 2024 guideline: research/records/r-014.md
+          - R-015 EAGLES trial: research/records/r-015.md
+          - R-016 Cytisine vs placebo: research/records/r-016.md
+          - R-017 Cytisine vs NRT: research/records/r-017.md
   - Guidelines:
       - Overview: guidelines/index.md
+      - WHO 2024: guidelines/who-2024.md
+      - USPSTF 2021: guidelines/uspstf-2021.md
+      - NICE NG209: guidelines/nice-ng209.md
+      - US PHS 2008: guidelines/usphs-2008.md
   - Nicotine:
       - Overview: nicotine/index.md
   - Withdrawal:
       - Overview: withdrawal/index.md
+      - Craving: withdrawal/cravings.md
+      - Irritability: withdrawal/irritability.md
+      - Anxiety: withdrawal/anxiety.md
+      - Low mood: withdrawal/low-mood.md
+      - Sleep problems: withdrawal/sleep.md
+      - Concentration: withdrawal/concentration.md
+      - Restlessness: withdrawal/restlessness.md
+      - Appetite & weight: withdrawal/appetite-weight.md
+      - Cough: withdrawal/cough.md
+      - Headache: withdrawal/headache.md
+      - Fatigue: withdrawal/fatigue.md
+      - Constipation: withdrawal/constipation.md
   - Medications:
       - Overview: medications/index.md
+      - NRT: medications/nrt.md
+      - Varenicline: medications/varenicline.md
+      - Bupropion: medications/bupropion.md
+      - Cytisine: medications/cytisine.md
+  - Cessation Methods:
+      - Overview: cessation-methods/index.md
   - Behavior Change:
       - Overview: behavior-change/index.md
   - Health Effects:
       - Overview: health-effects/index.md
   - Relapse:
       - Overview: relapse/index.md
-  - Cessation Methods:
-      - Overview: cessation-methods/index.md
   - Definitions:
       - Overview: definitions/index.md
   - Controversies:
       - Overview: controversies/index.md
+      - E-cigarettes: controversies/e-cigarettes.md
+      - Gradual vs abrupt: controversies/gradual-vs-abrupt.md
+      - Dual use: controversies/dual-use.md
+      - Medication comparisons: controversies/medication-comparisons.md
   - References:
       - Overview: references/index.md
   - Community Data:

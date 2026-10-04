@@ -1,50 +1,38 @@
 # Quit Smoking Hub — Data Center
 
-The structured research and reference layer of [Quit Smoking Hub](https://smokingcessation.pages.dev).
+The evidence and knowledge infrastructure behind [Quit Smoking Hub](https://smokingcessation.pages.dev/). Where the main site gives practical knowledge, questions and community experiences, this site provides the structured evidence layer: research records, guidelines, definitions, evidence pages and the community data documentation.
 
-This site hosts the machine-readable, research-oriented side of the platform:
-the Research Database, evidence labels, definitions, guidelines and references
-that back the main site's editorial content.
+## What this site is
 
-**Evidence hierarchy**
+- **Evidence layer**: every research record is a published, citable study — never invented, never summarized from memory. See [Research](research/).
+- **Guideline comparison**: what WHO, USPSTF, NICE and the US PHS actually recommend, with dates and differences stated. See [Guidelines](guidelines/).
+- **Medication and method evidence**: per-medication and per-method evidence pages with strength ratings. See [Medications](medications/) and [Cessation Methods](cessation-methods/).
+- **Withdrawal science**: symptom-by-symptom science — definition, mechanism, timing, what varies, what may help. See [Withdrawal](withdrawal/).
+- **Defined vocabulary**: a stable glossary used consistently across both sites. See [Definitions](definitions/).
+- **Controversies, stated plainly**: e-cigarettes, gradual-vs-abrupt, dual use, medication comparisons. See [Controversies](controversies/).
+- **Community data documentation**: how the experience database is built, its statistics, and its limits. See [Community Data](community-data/).
 
-| Tier | Sources |
+## The relationship between the two sites
+
+| Main site | Data center |
 |---|---|
-| Tier 1 | WHO, CDC, NIH, NCI, PubMed, Cochrane, government health agencies, clinical guidelines |
-| Tier 2 | Peer-reviewed journals, professional organizations, major universities |
-| Tier 3 | High-quality secondary sources |
-| Community | Experience source only — never scientific evidence |
+| Practical knowledge and guidance | Evidence and structured records |
+| Questions with direct answers | Research and guidelines behind the answers |
+| Community experiences and patterns | Community data documentation and statistics |
+| Timeline, tools, triggers | Withdrawal science, behaviour-change mechanisms |
 
-**Evidence labels**
+The main site links here for evidence; this site links back for practical application. Neither duplicates the other.
 
-| Label | Meaning |
-|---|---|
-| Strong Evidence | Multiple high-quality trials/reviews agree |
-| Moderate Evidence | Good evidence, some uncertainty |
-| Limited Evidence | Few or small studies |
-| Mixed Evidence | Studies disagree |
-| Insufficient Evidence | No adequate studies |
-| Community Report Only | Experience reports, not evidence |
+## Evidence integrity rules
 
-## Sections
+1. **No fabricated studies, authors, DOIs, PMIDs, statistics or findings.** Every record traces to its published source, linked from the record page.
+2. **Community experience is not medical evidence.** Community data are reported as observations with their own documentation, always separate from the evidence layer.
+3. **Uncertainty is stated, not smoothed over.** Where evidence conflicts or is insufficient, it says so — see [Controversies](controversies/).
+4. **No individual medical advice.** Medication pages describe what the evidence shows; they never prescribe.
 
-- [Research](research/index.md) — structured research records
-- [Guidelines](guidelines/index.md) — clinical and public health guidelines
-- [Nicotine](nicotine/index.md) — nicotine pharmacology and dependence
-- [Withdrawal](withdrawal/index.md) — nicotine withdrawal
-- [Medications](medications/index.md) — cessation medications
-- [Behavior Change](behavior-change/index.md) — behavior change science
-- [Health Effects](health-effects/index.md) — health effects of smoking and quitting
-- [Relapse](relapse/index.md) — relapse and recovery
-- [Cessation Methods](cessation-methods/index.md) — quit methods
-- [Definitions](definitions/index.md) — glossary of defined terms
-- [Controversies](controversies/index.md) — contested topics in cessation
-- [References](references/index.md) — full reference list
+## Start points
 
-## Integrity rules
-
-- No fabricated studies, DOIs, PMIDs, statistics or experts.
-- Every research record carries source, year, population, findings and limitations.
-- Community observations are labeled and never presented as scientific evidence.
-- This data site does not provide medical advice. See the
-  [medical disclaimer](https://smokingcessation.pages.dev/disclaimer/).
+- [Research Database](research/) — 17 structured records
+- [Guidelines](guidelines/) — 4 major guideline records
+- [Community statistics](community-data/statistics.md) — live counts from the experience database
+- [Medical disclaimer](https://smokingcessation.pages.dev/disclaimer/) (main site)
