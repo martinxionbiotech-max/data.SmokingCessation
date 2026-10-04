@@ -11,7 +11,7 @@
 | — noindex (internal database only) | 34 |
 | — review (medical safety gate) | 2 |
 | Relapse reports | 12 |
-| Community patterns | 3 |
+| Community patterns | 6 |
 | Questions | 12 |
 
 ## Quality distribution (published experiences)
@@ -72,6 +72,9 @@ One structured report spans two relapses (6 months, then 3 months) and appears i
 1. **Alcohol and social occasions** — the most reported relapse setting (6 relevant reports), including one report of surviving drinking situations smoke-free (a contradictory case).
 2. **Relapse returns a heavier habit** — several reports describe smoking more after relapse than before the quit (3 relevant reports).
 3. **The first cigarette is the relapse** — a single cigarette taken as reward or accepted casually was the pivot point of relapse in multiple reports (6 relevant reports), including two near-miss cases in which the slip was contained and the quit continued.
+4. **Smoking dreams** — vivid dreams about smoking, usually arriving around a month into the quit and treated by reporters as a passing phase rather than a warning (3 relevant reports; none relapsed).
+5. **Health events as the decisive motivation** — quits started from a hospitalization, diagnosis, a relative's smoking-related death or alarming test results, described as feeling different from gradual decisions (9 relevant reports).
+6. **Daily check-ins as a commitment device** — daily sign-in rituals maintained for years, in two cases a decade, with the streak and its public visibility anchoring the quit (6 relevant reports).
 
 ## Most-reported symptoms (published records)
 
@@ -109,7 +112,7 @@ Symptoms are self-reported withdrawal or health effects, not diagnoses:
 
 ## Evidence status
 
-Every record in the database is labeled `community-report` (169 of 169). The evidence-status scale (`community-report` → `pattern-supported` → `evidence-aligned` → `evidence-mixed`) is applied when patterns and research alignment are assessed; currently the `pattern-supported` level is in use on the three pattern pages.
+Every record in the database is labeled `community-report` (169 of 169). The evidence-status scale (`community-report` → `pattern-supported` → `evidence-aligned` → `evidence-mixed`) is applied when patterns and research alignment are assessed; currently the `pattern-supported` level is in use on the six pattern pages.
 
 ## How these numbers change
 
