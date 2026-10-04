@@ -16,7 +16,7 @@ Nicotine is the primary addictive substance in tobacco. It is a stimulant alkalo
 
 When nicotine is removed, the adapted brain is temporarily out of balance. The mismatch between a brain "expecting" nicotine and not receiving it produces the withdrawal syndrome: irritability, craving, low mood, difficulty concentrating, sleep disturbance, increased appetite.
 
-- Most physical withdrawal symptoms **peak in the first week and substantially resolve within 2–4 weeks** — see the Hughes withdrawal time-course record [R-007](../../research/records/r-007.md).
+- Most physical withdrawal symptoms **peak in the first week and substantially resolve within 2–4 weeks** — see the Hughes withdrawal time-course record [R-007](../research/records/r-007.md).
 - **Craving** behaves differently: it can persist for months, in waves, especially when conditioned triggers are encountered.
 
 ## Key distinction: dependence vs habit

@@ -10,8 +10,8 @@ It reduces withdrawal symptoms and cravings while the person breaks the behaviou
 
 ## What the evidence shows
 
-- The Cochrane review of NRT (Stead et al.) found NRT in any form increases quit rates by roughly 50–70% versus placebo — see [R-001](../../research/records/r-001.md).
-- In the EAGLES trial, the nicotine patch showed no increase in moderate-to-severe neuropsychiatric adverse events versus placebo — see [R-015](../../research/records/r-015.md).
+- The Cochrane review of NRT (Stead et al.) found NRT in any form increases quit rates by roughly 50–70% versus placebo — see [R-001](../research/records/r-001.md).
+- In the EAGLES trial, the nicotine patch showed no increase in moderate-to-severe neuropsychiatric adverse events versus placebo — see [R-015](../research/records/r-015.md).
 - WHO (2024), USPSTF (2021) and NICE (NG209) all recommend NRT; in the UK, combining a patch with a fast-acting form (gum or lozenge) is standard practice.
 
 ## Common considerations

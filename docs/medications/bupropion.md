@@ -10,8 +10,8 @@ Its exact mechanism in cessation is not fully understood. It affects dopamine an
 
 ## What the evidence shows
 
-- The Cochrane review of antidepressants for smoking cessation found bupropion approximately doubles quit rates versus placebo — see [R-003](../../research/records/r-003.md).
-- In EAGLES, bupropion showed no significant increase in moderate-to-severe neuropsychiatric adverse events versus placebo — see [R-015](../../research/records/r-015.md).
+- The Cochrane review of antidepressants for smoking cessation found bupropion approximately doubles quit rates versus placebo — see [R-003](../research/records/r-003.md).
+- In EAGLES, bupropion showed no significant increase in moderate-to-severe neuropsychiatric adverse events versus placebo — see [R-015](../research/records/r-015.md).
 - WHO (2024), USPSTF (2021) and NICE (NG209) all include bupropion among recommended options; it is often the choice when varenicline is unavailable or unsuitable.
 
 ## Common considerations
@@ -26,4 +26,4 @@ Its exact mechanism in cessation is not fully understood. It affects dopamine an
 - What should I do if sleep becomes difficult after starting?
 - Is combining bupropion with NRT appropriate for me?
 
-**Related:** [Varenicline](varenicline.md) · [NRT](nrt.md) · [Research record R-003](../../research/records/r-003.md)
+**Related:** [Varenicline](varenicline.md) · [NRT](nrt.md) · [Research record R-003](../research/records/r-003.md)

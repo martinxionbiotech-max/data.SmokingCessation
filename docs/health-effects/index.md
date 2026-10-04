@@ -5,7 +5,7 @@ The evidence layer on harm and recovery. The body-recovery timeline on the [main
 ## The core evidence
 
 - Smoking is causally linked to cancer, cardiovascular disease, respiratory disease, and many other conditions — the causal framework is documented across Surgeon General reports and WHO reports spanning decades.
-- The landmark Jha et al. study of ~200,000 US adults found: quitting before age 40 avoids most of the excess mortality of continued smoking; quitting between 25–34 adds roughly a decade of life; quitting at any age confers benefit — see [R-006](../../research/records/r-006.md).
+- The landmark Jha et al. study of ~200,000 US adults found: quitting before age 40 avoids most of the excess mortality of continued smoking; quitting between 25–34 adds roughly a decade of life; quitting at any age confers benefit — see [R-006](../research/records/r-006.md).
 
 ## What happens after quitting (documented averages)
 

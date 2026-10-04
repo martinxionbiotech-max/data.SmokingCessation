@@ -23,4 +23,4 @@ The comparative evidence on cessation medications, from the Cochrane network met
 
 ## Related records
 
-- [R-002](../../research/records/r-002.md) · [R-008](../../research/records/r-008.md) · [R-013](../../research/records/r-013.md) · [R-017](../../research/records/r-017.md)
+- [R-002](../research/records/r-002.md) · [R-008](../research/records/r-008.md) · [R-013](../research/records/r-013.md) · [R-017](../research/records/r-017.md)

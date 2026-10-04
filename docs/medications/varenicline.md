@@ -10,9 +10,9 @@ It binds to the same brain receptors as nicotine. It partially stimulates them �
 
 ## What the evidence shows
 
-- Cochrane's review of nicotine receptor partial agonists found varenicline increases quit rates substantially versus placebo (roughly 2–3x) — see [R-002](../../research/records/r-002.md).
-- The EAGLES trial (8,144 participants, with and without psychiatric disorders) found **no significant increase in moderate-to-severe neuropsychiatric adverse events** versus placebo or patch, and varenicline was the most effective of the compared treatments — see [R-015](../../research/records/r-015.md).
-- The 2016 network meta-analysis overview placed varenicline among the most effective single medications — see [R-008](../../research/records/r-008.md).
+- Cochrane's review of nicotine receptor partial agonists found varenicline increases quit rates substantially versus placebo (roughly 2–3x) — see [R-002](../research/records/r-002.md).
+- The EAGLES trial (8,144 participants, with and without psychiatric disorders) found **no significant increase in moderate-to-severe neuropsychiatric adverse events** versus placebo or patch, and varenicline was the most effective of the compared treatments — see [R-015](../research/records/r-015.md).
+- The 2016 network meta-analysis overview placed varenicline among the most effective single medications — see [R-008](../research/records/r-008.md).
 - WHO (2024), USPSTF (2021) and NICE (NG209) all recommend varenicline.
 
 ## Common considerations
@@ -28,4 +28,4 @@ It binds to the same brain receptors as nicotine. It partially stimulates them �
 - What should I expect in the first weeks, and what side effects should I report?
 - How does it compare with NRT or cytisine for me specifically?
 
-**Related:** [NRT](nrt.md) · [Bupropion](bupropion.md) · [EAGLES record](../../research/records/r-015.md)
+**Related:** [NRT](nrt.md) · [Bupropion](bupropion.md) · [EAGLES record](../research/records/r-015.md)
