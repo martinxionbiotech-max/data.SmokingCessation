@@ -2,7 +2,7 @@ site_name: Quit Smoking Hub — Data Center
 site_description: >-
   Structured research database and reference center for smoking cessation:
   nicotine, withdrawal, medications, behavior change, relapse and health effects.
-site_url: https://data.quitsmokinghub.com
+site_url: https://data-smokingcessation.pages.dev
 repo_name: SmokingCessation
 theme:
   name: material

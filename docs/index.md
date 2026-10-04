@@ -1,6 +1,6 @@
 # Quit Smoking Hub — Data Center
 
-The structured research and reference layer of [Quit Smoking Hub](https://quitsmokinghub.com).
+The structured research and reference layer of [Quit Smoking Hub](https://smokingcessation.pages.dev).
 
 This site hosts the machine-readable, research-oriented side of the platform:
 the Research Database, evidence labels, definitions, guidelines and references
@@ -47,4 +47,4 @@ that back the main site's editorial content.
 - Every research record carries source, year, population, findings and limitations.
 - Community observations are labeled and never presented as scientific evidence.
 - This data site does not provide medical advice. See the
-  [medical disclaimer](https://quitsmokinghub.com/disclaimer/).
+  [medical disclaimer](https://smokingcessation.pages.dev/disclaimer/).

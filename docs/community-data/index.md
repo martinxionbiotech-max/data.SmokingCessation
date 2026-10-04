@@ -44,9 +44,9 @@ The ingestion pipeline follows these rules, which are enforced for every record:
 
 The full structured records are maintained in the main site's content repository ([SmokingCessation](https://github.com/martinxionbiotech-max/SmokingCessation), `src/data/experiences/`, `src/data/relapse/`, `src/data/patterns/`). Public pages render at:
 
-- [Community Experiences](https://quitsmokinghub.com/experiences/) — individual experience pages
-- [Relapse Reports](https://quitsmokinghub.com/relapse/) — structured relapse records
-- [Community Patterns](https://quitsmokinghub.com/patterns/) — patterns observed across multiple reports
+- [Community Experiences](https://smokingcessation.pages.dev/experiences/) — individual experience pages
+- [Relapse Reports](https://smokingcessation.pages.dev/relapse/) — structured relapse records
+- [Community Patterns](https://smokingcessation.pages.dev/patterns/) — patterns observed across multiple reports
 
 See also the ingestion pipeline documentation ([CONTENT-INGESTION.md](https://github.com/martinxionbiotech-max/SmokingCessation/blob/main/CONTENT-INGESTION.md)) and the data model ([DATA-MODEL.md](https://github.com/martinxionbiotech-max/SmokingCessation/blob/main/DATA-MODEL.md)).
 
