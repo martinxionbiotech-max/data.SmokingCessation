@@ -35,5 +35,5 @@ The consolidated source list for this platform. Every research record, guideline
 ## Sourcing policy
 
 - All DOIs above are real and link to the published record.
-- Community experience data (experience database, relapse reports, patterns) are attributed to the de-identified ingestion pipeline described in the [main-site methodology](https://smokingcessation.pages.dev/methodology/) — they are not part of the scientific evidence base and are never cited as such.
+- Community experience data (experience database, relapse reports, patterns) are attributed to the de-identified ingestion pipeline described in the [main-site methodology](https://smokingcessationhub.com/methodology/) — they are not part of the scientific evidence base and are never cited as such.
 - Sources are re-verified against the publisher when records are updated; each research record carries a last-verified date.

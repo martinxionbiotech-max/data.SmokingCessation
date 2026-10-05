@@ -1,6 +1,6 @@
 # Quit Smoking Hub — Data Center
 
-The evidence and knowledge infrastructure behind [Quit Smoking Hub](https://smokingcessation.pages.dev/). Where the main site gives practical knowledge, questions and community experiences, this site provides the structured evidence layer: research records, guidelines, definitions, evidence pages and the community data documentation.
+The evidence and knowledge infrastructure behind [Quit Smoking Hub](https://smokingcessationhub.com/). Where the main site gives practical knowledge, questions and community experiences, this site provides the structured evidence layer: research records, guidelines, definitions, evidence pages and the community data documentation.
 
 ## What this site is
 
@@ -35,4 +35,4 @@ The main site links here for evidence; this site links back for practical applic
 - [Research Database](research/) — 17 structured records
 - [Guidelines](guidelines/) — 4 major guideline records
 - [Community statistics](community-data/statistics.md) — live counts from the experience database
-- [Medical disclaimer](https://smokingcessation.pages.dev/disclaimer/) (main site)
+- [Medical disclaimer](https://smokingcessationhub.com/disclaimer/) (main site)

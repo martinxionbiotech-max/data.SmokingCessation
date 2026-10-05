@@ -31,4 +31,4 @@ The time-course is documented by the landmark Hughes review — see [R-007](../r
 
 ## Important boundary
 
-Withdrawal symptoms are usually mild-to-moderate and self-limiting. Some symptoms — chest pain, blood-streaked phlegm, persistent fever, severe or worsening breathlessness — are **not typical withdrawal** and warrant medical evaluation. The practical, plain-language version lives on the [main site](https://smokingcessation.pages.dev/withdrawal/).
+Withdrawal symptoms are usually mild-to-moderate and self-limiting. Some symptoms — chest pain, blood-streaked phlegm, persistent fever, severe or worsening breathlessness — are **not typical withdrawal** and warrant medical evaluation. The practical, plain-language version lives on the [main site](https://smokingcessationhub.com/withdrawal/).

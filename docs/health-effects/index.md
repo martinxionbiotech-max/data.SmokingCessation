@@ -1,6 +1,6 @@
 # Health Effects: What Smoking Does and What Quitting Changes
 
-The evidence layer on harm and recovery. The body-recovery timeline on the [main site](https://smokingcessation.pages.dev/timeline/) is the practical version of this page.
+The evidence layer on harm and recovery. The body-recovery timeline on the [main site](https://smokingcessationhub.com/timeline/) is the practical version of this page.
 
 ## The core evidence
 

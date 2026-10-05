@@ -22,7 +22,7 @@ Belief in one's ability to quit predicts success in the literature. Self-efficac
 
 ## Implementation intentions
 
-"If-then" planning ("if I want a cigarette after dinner, then I will brush my teeth immediately") consistently outperforms vague intentions in behaviour-change research. The [main site tools page](https://smokingcessation.pages.dev/tools/) provides practical versions.
+"If-then" planning ("if I want a cigarette after dinner, then I will brush my teeth immediately") consistently outperforms vague intentions in behaviour-change research. The [main site tools page](https://smokingcessationhub.com/tools/) provides practical versions.
 
 ## Why willpower framing is incomplete
 
@@ -31,4 +31,4 @@ Quitting framed purely as "willpower" ignores pharmacology (dependence is neurob
 ## Related
 
 - [Relapse section](../relapse/) — lapse, relapse and recovery in the evidence
-- [Community patterns](https://smokingcessation.pages.dev/patterns/) — patterns observed across community experiences (main site)
+- [Community patterns](https://smokingcessationhub.com/patterns/) — patterns observed across community experiences (main site)

@@ -33,4 +33,4 @@ Both matter, and they are treated differently — which is why combined medicati
 
 - [Withdrawal section](../withdrawal/) — symptom-by-symptom science
 - [Definitions](../definitions/) — precise terms used across the platform
-- [Main site: How to Quit Smoking](https://smokingcessation.pages.dev/quit-smoking/)
+- [Main site: How to Quit Smoking](https://smokingcessationhub.com/quit-smoking/)

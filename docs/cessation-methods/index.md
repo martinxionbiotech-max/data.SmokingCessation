@@ -1,6 +1,6 @@
 # Cessation Methods: The Evidence
 
-How the evidence compares across the main ways people quit. This page is the evidence layer; the practical comparison lives on the [main site methods section](https://smokingcessation.pages.dev/methods/).
+How the evidence compares across the main ways people quit. This page is the evidence layer; the practical comparison lives on the [main site methods section](https://smokingcessationhub.com/methods/).
 
 ## Evidence strength by method
 

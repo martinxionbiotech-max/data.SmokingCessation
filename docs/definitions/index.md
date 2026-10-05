@@ -33,4 +33,4 @@ The glossary of defined terms used across this platform. Each definition is writ
 ## Related
 
 - [Research Database](../research/) — where evidence strength is applied
-- [Main site methodology](https://smokingcessation.pages.dev/methodology/) — how community data is collected and graded
+- [Main site methodology](https://smokingcessationhub.com/methodology/) — how community data is collected and graded

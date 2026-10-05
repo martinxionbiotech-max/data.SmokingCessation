@@ -29,4 +29,4 @@ Breaking work into short blocks, writing lists, reducing multitasking expectatio
 If concentration problems persist long after the withdrawal window or interfere severely, discuss with a professional — they can also reflect sleep or mood conditions.
 
 ---
-*Evidence note: withdrawal timing is drawn from the research literature (see [R-007](../research/records/r-007.md)) and standard clinical descriptions. This page describes patterns, not individual predictions. Practical guidance lives on the [main site withdrawal section](https://smokingcessation.pages.dev/withdrawal/).*
+*Evidence note: withdrawal timing is drawn from the research literature (see [R-007](../research/records/r-007.md)) and standard clinical descriptions. This page describes patterns, not individual predictions. Practical guidance lives on the [main site withdrawal section](https://smokingcessationhub.com/withdrawal/).*

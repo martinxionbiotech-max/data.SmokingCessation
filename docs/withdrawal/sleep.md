@@ -29,4 +29,4 @@ Consistent sleep schedule, reducing caffeine after midday, evening wind-down rou
 Prolonged severe insomnia beyond the withdrawal window, or sleep apnea symptoms (loud snoring with pauses, daytime sleepiness), warrant medical review.
 
 ---
-*Evidence note: withdrawal timing is drawn from the research literature (see [R-007](../research/records/r-007.md)) and standard clinical descriptions. This page describes patterns, not individual predictions. Practical guidance lives on the [main site withdrawal section](https://smokingcessation.pages.dev/withdrawal/).*
+*Evidence note: withdrawal timing is drawn from the research literature (see [R-007](../research/records/r-007.md)) and standard clinical descriptions. This page describes patterns, not individual predictions. Practical guidance lives on the [main site withdrawal section](https://smokingcessationhub.com/withdrawal/).*

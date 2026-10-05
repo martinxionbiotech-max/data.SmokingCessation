@@ -4,7 +4,7 @@ site_description: >-
   structured research records, guideline comparisons, medication and
   withdrawal science, definitions, controversies and community data
   documentation.
-site_url: https://data-smokingcessation.pages.dev
+site_url: https://data.smokingcessationhub.com
 theme:
   name: material
   palette:
