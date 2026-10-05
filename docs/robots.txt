@@ -22,3 +22,6 @@ User-agent: Amazonbot
 Allow: /
 
 Sitemap: https://data.smokingcessationhub.com/sitemap.xml
+
+# Content signals (declares the same policy as the Allow rules above)
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
