@@ -17,7 +17,10 @@ theme:
     - navigation.expand
 plugins:
   - search
-  - sitemap
+
+# sitemap 由下面的 hook 生成（不依赖第三方插件，构建环境无需额外安装）
+hooks:
+  - hooks/sitemap.py
 markdown_extensions:
   - tables
   - admonition
