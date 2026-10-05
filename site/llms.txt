@@ -1,0 +1,22 @@
+# Quit Smoking Hub Data Center
+
+The evidence and knowledge infrastructure behind Quit Smoking Hub: structured research
+records, guideline comparisons, medication and withdrawal science, definitions,
+controversies and community data documentation. Educational information; not medical advice.
+
+## Core sections
+
+- Research Database: https://data.smokingcessationhub.com/research/ — 17 research records (Cochrane, NEJM, WHO, NICE)
+- Guidelines: https://data.smokingcessationhub.com/guidelines/ — WHO 2024, USPSTF 2021, NICE NG209, US PHS 2008
+- Withdrawal: https://data.smokingcessationhub.com/withdrawal/ — cravings, irritability, anxiety, low mood, sleep, concentration
+- Medications: https://data.smokingcessationhub.com/medications/ — NRT, cytisine, varenicline, bupropion
+- Definitions: https://data.smokingcessationhub.com/definitions/
+- Controversies: https://data.smokingcessationhub.com/controversies/ — e-cigarettes, dual-use, gradual vs abrupt
+- Community Data: https://data.smokingcessationhub.com/community-data/ — statistics and documentation
+- Behaviour Change: https://data.smokingcessationhub.com/behavior-change/
+- Health Effects: https://data.smokingcessationhub.com/health-effects/
+- References: https://data.smokingcessationhub.com/references/
+
+## Main site
+
+- Quit Smoking Hub: https://smokingcessationhub.com/ — practical guidance, methods compared, experiences

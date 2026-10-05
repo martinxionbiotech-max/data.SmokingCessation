@@ -21,7 +21,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Research:
-      - Overview: research/index.md
+      - Research Overview: research/index.md
       - Records:
           - R-001 NRT (Cochrane 2012): research/records/r-001.md
           - R-002 Partial agonists (Cochrane): research/records/r-002.md
@@ -41,15 +41,15 @@ nav:
           - R-016 Cytisine vs placebo: research/records/r-016.md
           - R-017 Cytisine vs NRT: research/records/r-017.md
   - Guidelines:
-      - Overview: guidelines/index.md
+      - Guidelines Overview: guidelines/index.md
       - WHO 2024: guidelines/who-2024.md
       - USPSTF 2021: guidelines/uspstf-2021.md
       - NICE NG209: guidelines/nice-ng209.md
       - US PHS 2008: guidelines/usphs-2008.md
   - Nicotine:
-      - Overview: nicotine/index.md
+      - Nicotine Overview: nicotine/index.md
   - Withdrawal:
-      - Overview: withdrawal/index.md
+      - Withdrawal Overview: withdrawal/index.md
       - Craving: withdrawal/cravings.md
       - Irritability: withdrawal/irritability.md
       - Anxiety: withdrawal/anxiety.md
@@ -63,29 +63,29 @@ nav:
       - Fatigue: withdrawal/fatigue.md
       - Constipation: withdrawal/constipation.md
   - Medications:
-      - Overview: medications/index.md
+      - Medications Overview: medications/index.md
       - NRT: medications/nrt.md
       - Varenicline: medications/varenicline.md
       - Bupropion: medications/bupropion.md
       - Cytisine: medications/cytisine.md
   - Cessation Methods:
-      - Overview: cessation-methods/index.md
+      - Methods Overview: cessation-methods/index.md
   - Behavior Change:
-      - Overview: behavior-change/index.md
+      - Behaviour Change Overview: behavior-change/index.md
   - Health Effects:
-      - Overview: health-effects/index.md
+      - Health Effects Overview: health-effects/index.md
   - Relapse:
-      - Overview: relapse/index.md
+      - Relapse Overview: relapse/index.md
   - Definitions:
-      - Overview: definitions/index.md
+      - Definitions Overview: definitions/index.md
   - Controversies:
-      - Overview: controversies/index.md
+      - Controversies Overview: controversies/index.md
       - E-cigarettes: controversies/e-cigarettes.md
       - Gradual vs abrupt: controversies/gradual-vs-abrupt.md
       - Dual use: controversies/dual-use.md
       - Medication comparisons: controversies/medication-comparisons.md
   - References:
-      - Overview: references/index.md
+      - References Overview: references/index.md
   - Community Data:
-      - Overview: community-data/index.md
+      - Community Data Overview: community-data/index.md
       - Live Statistics: community-data/statistics.md
