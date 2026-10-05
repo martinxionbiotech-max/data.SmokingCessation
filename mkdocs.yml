@@ -7,6 +7,7 @@ site_description: >-
 site_url: https://data.smokingcessationhub.com
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: default
     primary: teal
@@ -14,7 +15,9 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
-plugins: []
+plugins:
+  - search
+  - sitemap
 markdown_extensions:
   - tables
   - admonition
